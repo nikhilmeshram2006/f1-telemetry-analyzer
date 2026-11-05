@@ -1,0 +1,21 @@
+# Python virtual environments
+venv/
+.venv/
+*.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# API caches
+f1_cache/
+openf1_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
